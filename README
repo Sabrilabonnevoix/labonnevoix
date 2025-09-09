@@ -1,0 +1,66 @@
+# 🌐 La Bonne Voix Conseil
+
+Site vitrine officiel de **La Bonne Voix Conseil** (coaching & conseil commercial B2B).  
+Déployé gratuitement avec **GitHub Pages**.
+
+---
+
+## 🚀 Déploiement
+
+1. Télécharger le fichier `index.html` (fourni).
+2. Dans ton dépôt GitHub :
+   - Cliquer sur **Add file → Upload files**
+   - Uploader `index.html`
+   - Committer sur la branche **main**
+3. Activer **GitHub Pages** :
+   - Aller dans **Settings → Pages**
+   - Source : **Deploy from branch**
+   - Branch : **main / root**
+4. Le site sera accessible à l’URL :  
+   `https://<ton-user>.github.io/<nom-du-repo>/`  
+   ou via ton **nom de domaine personnalisé** (ex. `labonnevoixconseil.fr`).
+
+---
+
+## ✨ Contenu inclus
+
+- Site **single-file** : `index.html` (tout est intégré → logo, images, SEO, textes, articles).
+- **Sections** :
+  - Accueil (hero, CTA)
+  - Prestations
+  - Parcours
+  - Expertises
+  - Méthode
+  - Articles (3 articles SEO complets intégrés)
+  - Demande de devis
+  - Contact
+  - Mentions légales & Politique de confidentialité
+- **SEO optimisé** :
+  - Meta Title & Description
+  - Open Graph / Twitter Cards
+  - Balises Hn structurées
+  - JSON-LD Organization
+- **Tracking prêt** :
+  - Attributs `data-track` sur CTA (contact, devis, LinkedIn, email, tel)
+  - Console log → peut être branché à Plausible ou Google Analytics
+
+---
+
+## 📝 Ajouter un article
+
+Les articles sont intégrés directement dans `index.html` (section `#blog`).  
+Pour en ajouter un :
+1. Copier-coller la structure d’un article existant (`<a class="anchor" id="article-x">…</a><section>…</section>`).
+2. Ajouter un **teaser** dans la section **Articles**.
+3. Committer le fichier mis à jour.
+
+---
+
+## 📬 Contact
+
+- ✉️ [contact@labonnevoixconseil.com](mailto:contact@labonnevoixconseil.com)  
+- 📞 +33 6 10 47 29 99  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sabrihadj/)  
+
+---
+© {YEAR} La Bonne Voix Conseil. Tous droits réservés.
