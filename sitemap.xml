@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://labonnevoixconseil.fr/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://labonnevoixconseil.fr/services.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://labonnevoixconseil.fr/parcours.html</loc><priority>0.8</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://labonnevoixconseil.fr/offres.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://labonnevoixconseil.fr/contact.html</loc><priority>0.8</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://labonnevoixconseil.fr/mentions-legales.html</loc><priority>0.4</priority><changefreq>yearly</changefreq></url>
+  <url><loc>https://labonnevoixconseil.fr/politique-confidentialite.html</loc><priority>0.4</priority><changefreq>yearly</changefreq></url>
+
+  <!-- Blog (exemples ; duplique une ligne par article publié) -->
+  <url><loc>https://labonnevoixconseil.fr/blog/</loc><priority>0.6</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://labonnevoixconseil.fr/blog/optimiser-prospection-linkedin.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://labonnevoixconseil.fr/blog/script-appel-commercial-exemples.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://labonnevoixconseil.fr/blog/taux-conversion-entonoir-immobilier.html</loc><priority>0.6</priority><changefreq>monthly</changefreq></url>
+</urlset>
